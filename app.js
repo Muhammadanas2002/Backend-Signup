@@ -84,3 +84,7 @@ app.get("/",(req,res )=>{
 
 app.listen(port,()=>console.log(`runnig on ${port}`)
 );
+
+
+
+export default app
